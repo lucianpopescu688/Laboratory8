@@ -1,0 +1,12 @@
+﻿  DynamicArrayTest.cpp
+  FilteringCriteria.cpp
+D:\OOP2022\Laboratory8.2\FilteringCriteria.cpp(8,20): warning C4018: '<': signed/unsigned mismatch
+  FilteringCriteriaAnd.cpp
+  FilteringCriteriaOr.cpp
+  FilteringTest.cpp
+  main.cpp
+D:\OOP2022\Laboratory8.2\main.cpp(278,38): warning C4018: '>': signed/unsigned mismatch
+  Offer.cpp
+  OfferTest.cpp
+  Generating Code...
+  Laboratory8.2.vcxproj -> D:\OOP2022\Laboratory8.2\x64\Debug\Laboratory8.2.exe
